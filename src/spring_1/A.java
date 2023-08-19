@@ -1,5 +1,5 @@
 public class A {
     public String meth() {
-        return "Hello world!";
+        return "Invoking method from class A";
     }
 }
